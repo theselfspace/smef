@@ -1,8 +1,8 @@
 # SMEF — blog companion code
 
 This codebase has the
-eight files that the two-part blog series ("SMEF: Chasing Pocket-Sized Language Models Through the Guts of GGUF" (Link: https://medium.com/@theself.space/smef-chasing-pocket-sized-language-models-through-the-guts-of-gguf-a7954be9d094) /
-"SMEF: Building a Four-Pass Weight Compressor - and Why "Lossless" Was the Wrong Lever") actually talks about. It's
+eight files that the two-part blog series ("SMEF: Chasing Pocket-Sized Language Models Through the Guts of GGUF" [Link: https://medium.com/@theself.space/smef-chasing-pocket-sized-language-models-through-the-guts-of-gguf-a7954be9d094 /
+"SMEF: Building a Four-Pass Weight Compressor - and Why "Lossless" Was the Wrong Lever" [Link: https://medium.com/@theself.space/smef-building-a-four-pass-weight-compressor-and-why-lossless-was-the-wrong-lever-90f5c759f562] ) actually talks about. It's
 meant to be read alongside the posts, not as the full research project.
 
 It is a real, working package — pure Python + numpy/scipy, no PyTorch, no
